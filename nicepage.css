@@ -38830,6 +38830,11 @@ a.u-link.u-text-hover-grey-90:hover {
   width: 417px;
   margin: 49px auto;
 }
+
+.u-footer .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
     min-height: 99px;
